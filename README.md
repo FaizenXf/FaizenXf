@@ -2,7 +2,7 @@
 class FaizenXf:
 
     def __init__(self):
-        self.instagram_username = "https://t.me/pr0t0ngo"
+        self.instagram_username = "https://www.instagram.com/faizen.sosuke/"
         self.tg_link = 'https://t.me/FaizenSosuke'
         self.discord_link = 'faizen.sosuke'
         self.language = ["Python", "Javascript"]
